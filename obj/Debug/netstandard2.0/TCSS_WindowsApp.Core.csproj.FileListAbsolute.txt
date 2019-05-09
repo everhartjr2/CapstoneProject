@@ -1,0 +1,9 @@
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\obj\Debug\netstandard2.0\TCSS_WindowsApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\obj\Debug\netstandard2.0\TCSS_WindowsApp.Core.AssemblyInfoInputs.cache
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\obj\Debug\netstandard2.0\TCSS_WindowsApp.Core.AssemblyInfo.cs
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\bin\Debug\netstandard2.0\TCSS_WindowsApp.Core.deps.json
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\bin\Debug\netstandard2.0\TCSS_WindowsApp.Core.dll
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\bin\Debug\netstandard2.0\TCSS_WindowsApp.Core.pdb
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\obj\Debug\netstandard2.0\TCSS_WindowsApp.Core.csprojAssemblyReference.cache
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\obj\Debug\netstandard2.0\TCSS_WindowsApp.Core.dll
+C:\Users\jre06\source\repos\TCSS_WindowsApp\TCSS_WindowsApp.Core\obj\Debug\netstandard2.0\TCSS_WindowsApp.Core.pdb
